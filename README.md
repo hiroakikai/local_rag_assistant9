@@ -45,7 +45,7 @@ pip install ollama python-docx
 python rag_local.py
 起動後、プロンプトに質問を入力します（`quit` で終了）。
 付属の `sample.txt`（架空の就業規則）で動作を試せます。
-自分の文書を使う場合は、コード先頭の `DOC_PATH` を対象ファイルに変更してください。
+自分の文書を使う場合は、コード先頭の "sample.txt" を対象ファイルに変更してください。
 
 ## 設計上のポイント
 
