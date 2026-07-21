@@ -3,6 +3,7 @@
 社内文書に自然文で質問でき、**根拠（出典）付きで回答する**RAGアプリ。
 外部APIを使わず、すべてローカル（オフライン）で動作するため、機密文書も安全に扱えます。
 
+## 実行例
 <img width="1075" height="147" alt="image" src="https://github.com/user-attachments/assets/b27788e5-9a33-4df8-abaa-7c1a388df7c6" />
 
 ## 特徴
